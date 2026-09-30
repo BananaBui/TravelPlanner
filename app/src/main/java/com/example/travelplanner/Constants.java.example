@@ -1,0 +1,10 @@
+package com.example.travelplanner;
+
+public class Constants {
+    public static final String WEATHER_API_KEY = "YOUR_OPENWEATHERMAP_KEY";
+    public static final String GROQ_API_KEY = "YOUR_GROQ_KEY";
+    public static final String WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather";
+    public static final String FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast";
+    public static final String GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
+    public static final String GROQ_MODEL = "llama-3.3-70b-versatile";
+}

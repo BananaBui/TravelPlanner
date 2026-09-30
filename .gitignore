@@ -1,0 +1,40 @@
+# ---- Secrets ----
+# API keys live here; copy Constants.java.example to Constants.java and fill in your own keys.
+app/src/main/java/com/example/travelplanner/Constants.java
+local.properties
+*.jks
+*.keystore
+google-services.json
+
+# ---- Gradle ----
+.gradle/
+build/
+.kotlin/
+
+# ---- Android Studio / IntelliJ ----
+*.iml
+.idea/
+captures/
+.navigation/
+.externalNativeBuild/
+.cxx/
+
+# ---- Build outputs ----
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+output-metadata.json
+release/
+
+# ---- Logs & temp ----
+*.log
+*.tmp
+*.swp
+*~
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+desktop.ini

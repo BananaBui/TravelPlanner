@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TravelPlanner</string>
+    <string name="btn_add_day">+ Add Day</string>
+    <string name="btn_get_weather">Get Weather</string>
+    <string name="btn_add_city">+ Add City</string>
+    <string name="btn_remove">✕</string>
+    <string name="day_label">Day %d</string>
+    <string name="btn_pick_date">Select date</string>
+</resources>
